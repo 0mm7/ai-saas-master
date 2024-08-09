@@ -60,7 +60,7 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/dashboard
 OPENAI_API_KEY=
 REPLICATE_API_TOKEN=
 
-DATABASE_URL=
+DATABASE_URL="postgresql://postgres.icetvalawpgydgcixkly:[3w7G8_Y_LyWi.U9]@aws-0-ap-south-1.pooler.supabase.com:6543/postgres"
 
 STRIPE_API_KEY=
 STRIPE_WEBHOOK_SECRET=
